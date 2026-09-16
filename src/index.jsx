@@ -31,6 +31,7 @@ function SkillSet() {
       <Skill Skill="WPF" Color="Red" Emoji="💪" />
       <Skill Skill="CAD Programming" Color="Orange" Emoji="💪" />
       <Skill Skill="Digital Twin" Color="Orange" Emoji="💪" />
+      <Skill Skill="React JS" Color="Orange" Emoji="💪" />
     </div>
   );
 }
